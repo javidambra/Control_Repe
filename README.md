@@ -1,6 +1,6 @@
 *** Control Repe ***
 
-  Interfaz controladora para estación repetdora de Radioaficionados
+  Interfaz controladora para estación repetidora de Radioaficionados
   Realiza la interfaz entre el Rx y el Tx brindando diversas funciones como:
   Cola y bip
   TOT (Time out Tx) - "Antiponcho"
